@@ -1,0 +1,5 @@
+1-First open chat_Server.py file
+2-Then open chat_Client.py file
+  Enter host:127.0.0.1
+  Enter port:5000
+3-After then use the chatter app,enter name then you can chat.
